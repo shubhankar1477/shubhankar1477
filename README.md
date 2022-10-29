@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhankar1477 ![](https://komarev.com/ghpvc/?username=shubhankar1477&color=blue&style=flat-square&label=Profile+visitors)
 - 👀 I’m interested in solving Data science problems 
 - 🌱 I’m a continuous learner
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Machine Learning and NLP problems.
 - 📫 Reach me at https://www.linkedin.com/in/shubhankargdeshpande
 
 
