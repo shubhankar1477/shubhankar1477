@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shubhankar1477 ![](https://komarev.com/ghpvc/?username=shubhankar1477&color=blue&style=flat-square&label=Profile+visitors)
-- 👀 I’m interested in solving Data science problems 
-- 🌱 I’m a continuous learner
-- 💞️ I’m looking to collaborate on Machine Learning and NLP problems.
-- 📫 Reach me at https://www.linkedin.com/in/shubhankargdeshpande
+- 👋 Hi, I’m Shubhankar ![](https://komarev.com/ghpvc/?username=shubhankar1477&color=blue&style=flat-square&label=Profile+visitors)
+- I am a self-taught former data scientist from India now graduate student at Georgia State University . I don't know if my skills are wide or deep, but I can get things done 🧗
+
 
 
 **Languages and Tools:** 
